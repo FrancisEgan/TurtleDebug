@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffabd473Turtle Debug
+## Notes: A pretty-print debug tool for Turtle WoW that allows easy copying and saves your variable list
+## Version: 1.0.0
+## Author: Uncle Francis
+## SavedVariables: TurtleDebugSaved
+
+TurtleDebug.lua
