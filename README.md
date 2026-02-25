@@ -1,4 +1,4 @@
-# TurtleDebug
+# Turtle Debug
 
 A minimal Lua variable inspector for Turtle WoW. Inspect any global variable or function call, navigate nested tables with syntax-highlighted output, and keep a watch list of variables you care about.
 
